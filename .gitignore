@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# Express.js output
+dist/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# Log files
+logs/
+*.log
+
+# Dependency lock file
+yarn.lock
